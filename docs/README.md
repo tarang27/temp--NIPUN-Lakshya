@@ -3,12 +3,12 @@ Table of Contents
 1. [Functional Overview](functional-overview.md)
 
     - [Product Overview]()
-    - [Users]()
+    - [Types of Users]()
     
        a. [Mentors]()
 
        b. [Teachers]()
-       
+
        c. [Parents]()
 
     - [Use Cases]()
