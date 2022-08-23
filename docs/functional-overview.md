@@ -10,8 +10,7 @@ The application also records statistics post each visit/spot assessment which ca
 
 NIPUN Lakshya app has been designed to cater to parents, teachers & mentors conducting spot assessments for students from a large pool of questions & oral fluency tests. The application is also configured in a manner which enables random question sets to be displayed for the same competency in order to help assess students in the same competency using different sets of questions. The application currently has three flows for the three different user types to conduct spot assessments, they are:
 
-
-1. Mentors
+### 1. Mentors
 
 The Nipun Lakshya app is used by industry mentors to conduct Spot assessments of one or more students in grade 1-3 classes. Spot assessment is conducted for students with aptitude to determine their knowledge & understanding across different subjects.
 
