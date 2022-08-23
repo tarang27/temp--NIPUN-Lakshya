@@ -49,4 +49,12 @@ These Services do not collect any personal information at any point during usage
 # Use cases
 
 
+------------
+
+# Offline Usage
+
+Upon using NL app for the first time, we require an internet connection. After that, a user can perform basic actions on every usage.
+
+>section under construction
+
 

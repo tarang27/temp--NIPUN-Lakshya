@@ -97,3 +97,9 @@ Target Load for Assessment Submission (Uploads)
 
 Additional server scale up plans for the application can be found [here](https://docs.google.com/presentation/d/1WjgQQ_tkgPPrx9p0wdI607DH1wyopGst/edit#slide=id.p11).
 
+------------
+
+# API Documentation
+
+
+
