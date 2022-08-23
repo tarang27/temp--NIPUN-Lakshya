@@ -1,6 +1,6 @@
 # Data
 
-### Types of Data?
+### Types of Data
 
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
@@ -37,5 +37,11 @@ The data is collected from students through ODK forms and uploaded on both Hasur
 
 Posthog along with storing the data also performs analytics on the collected data. 
 Posthog is integrated to function with Telemetry events. Both Posthog and Telemetry are basically user behavior analytics tools that help you understand how different users interact with your application.
+
+# Telemetry
+
+Telemetry is an user behavior analytics tool that helps you understand how different users interact with your application. The Telemetry code is embedded in the Nipun Lakshya app. After the code is set up, Telemetry will start capturing and analyzing the user activity on the application.
+
+Telemetry keeps track of the user data by capturing “Events” performed by the user. These events can be anything such as clicking on a questions answered, total score, clicking on a submit button, number of students selected for spot assesments, how much time they spend on your application etc.
 
 
