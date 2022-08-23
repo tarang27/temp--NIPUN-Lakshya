@@ -1,6 +1,6 @@
 # Data
 
-### What data is collected?
+### What Data?
 
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
@@ -31,7 +31,7 @@ For mentors, It is essential that they provide their Phone numbers in order to l
 - Total time taken for each visit
 - Block town name etc.
 
-# How and Where the Data is stored?
+### How and Where the Data is stored?
 
 The data is collected from students through ODK forms and uploaded on both Hasura/Firebase and Posthog. Hasura/Firebase is the server we use for storing the answers and score cards of each student. Along with this, they also store all the above mentioned data of mentors and schools such as mentor name, designation, target visits and school name, UDISE code, block type etc.
 
