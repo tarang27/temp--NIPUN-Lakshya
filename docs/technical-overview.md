@@ -47,7 +47,7 @@ Telemetry keeps track of the user data by capturing “Events” performed by th
 >Example of telemtry events used in the NL app
 
 <p align="center">
-<img src="!https://user-images.githubusercontent.com/77961530/186145992-055c5776-e1e6-4ccc-88af-81fe617a12a9.png" width="500"/>
+<img src="https://user-images.githubusercontent.com/77961530/186145992-055c5776-e1e6-4ccc-88af-81fe617a12a9.png" width="500"/>
 </p>
 
 The list of all telemetry events configured in the Nipun lakshya app are present [here](https://docs.google.com/spreadsheets/d/1mg8zB9DT1MSs1U7sUwsz-cMLBzFkSknihR-16bjFzGM/edit#gid=187433592).
