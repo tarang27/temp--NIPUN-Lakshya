@@ -20,4 +20,14 @@ The data is also collected from various schools such as:
 
 This data is then used to show the list of schools and their spot assessment score on the Nipun lakshya dashboard.
 
+For mentors, It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
+
+- Designation of the mentor
+- Mentor name
+- Target visits
+- District name
+- Total time taken for each visit
+- Block town name etc.
+
+
 
