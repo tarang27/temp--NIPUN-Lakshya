@@ -44,4 +44,38 @@ Telemetry is an user behavior analytics tool that helps you understand how diffe
 
 Telemetry keeps track of the user data by capturing “Events” performed by the user. These events can be anything such as clicking on a questions answered, total score, clicking on a submit button, number of students selected for spot assesments, how much time they spend on your application etc.
 
+# Server Requirements
+
+Target Load for first time Installs (Downloads)
+
+- Total Users = 200,000
+- Duration = 3 hours = ~11,000 seconds
+- Average Users Count = ~20 Users/Second
+- Average Assessments to download = 100/User [1 time usage]
+- Peak Load = 10000 downloads/second [5x]
+
+Target Load for Assessment Submission (Uploads)
+
+- Total Users = 200,000
+- Duration = 3 hours = ~11,000 seconds
+- Average Users Count = ~20 Users/Second
+- Total Assessments taken per day by User = 5
+- Average Load = 200 uploads/second
+- Peak Load = 1000 uploads/second [5x]
+
+### Horizontal Scaling
+
+- Downloads
+
+   A single 8GB, 4 Core VM will be able to handle 300 Assessment Downloads per second. With caching it can reach 5k downloads/second. So 2 servers of the above configuration should do. If used without caching it would require 30 instances of hte server.
+
+- Uploads
+
+   A single 8GB, 4 Core VM will be able to handle 120 Assessment Submission/second. A cluster of ~9 servers will be required to manage the entire load of the state.
+
+- Total Cost
+    
+    1,184.51 USD/Month
+
+
 
