@@ -22,9 +22,13 @@ These results are then collected to determine and improve the overall quality of
 
 Similarly, teachers can also use the Nipun Lakshya app to determine how their students are progressing across different subjects. The results of the spot assessment will be also visible to the teacher and they will be able to accurately analyze which subjects students need the most help with. 
 
-Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies.
+Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies. The overall results of the spot assessment may also help identify any mistake in techniques used to teach students by the teaching faculties.
 
 ### 3. Parents
+
+Parents can also use the app to view their child’s test results and see how he/she is fairing across different subjects in school. The spot assessment is conducted for various school subjects such as Hindi, English, Math etc. The parents can see how other students in the same class progressed over these different subjects to get an idea of educational services provided to their child.
+
+These Services do not collect any personal information at any point during usage. The application has been designed to take assessments of children from Grades 1-3, and is completely safe for them to use independently and/or with adult supervision.
 
 # Use cases
 
