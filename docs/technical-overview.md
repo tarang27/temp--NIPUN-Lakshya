@@ -1,8 +1,10 @@
 # Data
 
+### What data is collected?
+
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
-If we consider data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:
+If we consider the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:
 
 - Data collected while using the application
 - The grade & subject selected for assessment
@@ -29,5 +31,11 @@ For mentors, It is essential that they provide their Phone numbers in order to l
 - Total time taken for each visit
 - Block town name etc.
 
+# How and Where the Data is stored?
+
+The data is collected from students through ODK forms and uploaded on both Hasura/Firebase and Posthog. Hasura/Firebase is the server we use for storing the answers and score cards of each student. Along with this, they also store all the above mentioned data of mentors and schools such as mentor name, designation, target visits and school name, UDISE code, block type etc.
+
+Posthog along with storing the data also performs analytics on the collected data. 
+Posthog is integrated to function with Telemetry events. Both Posthog and Telemetry are basically user behavior analytics tools that help you understand how different users interact with your application.
 
 
