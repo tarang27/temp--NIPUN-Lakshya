@@ -85,6 +85,9 @@ Target Load for Assessment Submission (Uploads)
     
     1,184.51 USD/Month
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186148181-a8b2b8c0-44e2-4131-ba67-074be3fe57b7.png" width="500"/>
+</p>
 
-
+Additional server scale up plans for the application can be found [here](https://docs.google.com/presentation/d/1WjgQQ_tkgPPrx9p0wdI607DH1wyopGst/edit#slide=id.p11).
 
