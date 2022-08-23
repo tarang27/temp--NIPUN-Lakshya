@@ -19,7 +19,7 @@ The mentor has the option of selecting how many students they want to have for u
 >Example of spot assesment test conducted for a subject
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186121709-35a24b84-3448-4089-a773-70eb66c04e3a.jpg" width="500" height="400"/> 
+<img src="https://user-images.githubusercontent.com/77961530/186121709-35a24b84-3448-4089-a773-70eb66c04e3a.jpg" width="250"/> 
 </p>
 
 These results are then collected to determine and improve the overall quality of education provided by the various educational institutes across the state of Uttar Pradesh. 
@@ -37,7 +37,7 @@ Parents can also use the app to view their child’s test results and see how he
 >List of schools displayed in the NL app according to different districts
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186121048-2160b1dc-3ccb-4d8c-978e-6be749f7444f.jpg" width="500" height="400"/> 
+<img src="https://user-images.githubusercontent.com/77961530/186121048-2160b1dc-3ccb-4d8c-978e-6be749f7444f.jpg" width="250"/> 
 </p>
 
 These Services do not collect any personal information at any point during usage. The application has been designed to take assessments of children from Grades 1-3, and is completely safe for them to use independently and/or with adult supervision.
