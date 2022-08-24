@@ -125,10 +125,6 @@ Resend OTP - sendOTP api is again used for resending the OTP to the mentor.
 
 The following screen sequence diagram depicts the working of the NL app right from the launch. It explains the workflow for a generic user and the screens they can access. These users are Parent, Teacher and Mentors, each user subset can access different features according to their position (Teacher, Mentor, Parent etc.) inside the NL app.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186148181-a8b2b8c0-44e2-4131-ba67-074be3fe57b7.png" width="500"/>
-</p>
-
 #### 2. Mentor Workflow:
 
 Following diagram explains the mentor logic embedded within the Nipun Lakshya app. List of options displayed to a mentor right from the launch such as OTP login, How spot assessments are conducted, Selecting school and grade and Selecting competency etc. 
