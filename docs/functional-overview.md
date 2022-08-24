@@ -73,7 +73,7 @@ Internet connection is mandatory only when you Install the app for the first tim
 The following diagram depicts the workflow of the Nipun lakshya app. The app uses ODK, QumL and Read along for collecting the results. The final results are uploaded on both Posthog and Hasura. The posthog specifically works on analyzing all the events captured via Telemetry and works on improving the overall quality of the app while the Hasura stores the test results.
 
 <p align="center">
-<img src="" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
 
