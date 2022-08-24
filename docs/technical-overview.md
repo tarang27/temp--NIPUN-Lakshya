@@ -103,6 +103,8 @@ Additional server scale up plans for the application can be found [here](https:/
 
 #### 1. Login Flow (Mentor):
 
+BASE URL: "http://165.22.211.112:8000/"					
+
 sendOTP - This API is used to send the OTP to the user's mobile. In order to authorize mentors, the NL app collects their phone number and sends an OTP to them upon every login. The sendOtp api asks for a phone number as an input.
 
 On successful number recognition, the api status is updated to success. On failure, the message is generated and sent as “Mobile number could not be verified. Please get in touch with the DC in your District's BSA office if your number is not registered on the Prerna Portal"
@@ -116,6 +118,18 @@ On failure, the response is sent as either “Invalid fusion auth token” or �
 Resend OTP - sendOTP api is again used for resending the OTP to the mentor.
 
 #### 2. Hasura GraphQL
+
+Server URL: .serverUrl("http://206.189.141.93:5001/v1/graphql")   Required Token : AuthorizationInterceptor(token)
+
+Nipun lakshya app uses Hasura’s API which allows you to conveniently specify authorization and other rules at a model level, and safely expose the GraphQL API to developers inside or outside your organization.
+
+NL app uses the API to do the following things:
+
+- Fetch the total visits and grade overviews
+- Schools data related to mentor district block
+- Schools visits data
+- Grade and subjects, Competency levels, Assessment results etc.
+- Overview data for schools
 
 ------------
 
