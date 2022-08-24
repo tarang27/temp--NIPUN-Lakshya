@@ -54,7 +54,7 @@ The app will also help conduct third party Ghoshna assessment, in order to decla
 
 ------------
 
-# Offline Usage 
+# What works Offline? 
 
 The Nipun lakshya app can also be used offline.  One unique feature of the application is the ability to facilitate & run the entire spot assessment flow in an offline mode, without the requirement of internet connection. A mentor can take a spot assessment test of multiple students in a completely offline mode. Internet connectivity is only required to submit those answers on the server.
 
@@ -68,7 +68,9 @@ Internet connection is mandatory only when you Install the app for the first tim
 
 ------------
 
-# Flow Diagram
+# Workflow
+
+The following diagram depicts the workflow of the Nipun lakshya app. The app uses ODK, QumL and Read along for collecting the results. The final results are uploaded on both Posthog and Hasura. The posthog specifically works on analyzing all the events captured via Telemetry and works on improving the overall quality of the app while the Hasura stores the test results.
 
 
 

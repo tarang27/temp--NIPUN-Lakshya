@@ -2,25 +2,25 @@ Table of Contents
 
 1. [Functional Overview](functional-overview.md)
 
-    - [Product Overview]()
-    - [Types of Users]()
+    - [Product Overview](functional-overview.md#product-overview)
+    - [Types of Users](functional-overview.md#types-of-users)
     
-       a. [Mentors]()
+       a. [Mentors](functional-overview.md#1-mentors)
 
-       b. [Teachers]()
+       b. [Teachers](functional-overview.md#2-teachers)
 
-       c. [Parents]()
+       c. [Parents](functional-overview.md#3-parents)
 
-    - [Use Cases]()
-    - [What works Offline?]()
-    - [Workflow]()
+    - [Use Cases](functional-overview.md#use-cases)
+    - [What works Offline?](functional-overview.md#offline-usage)
+    - [Workflow](functional-overview.md#workflow)
 
 2. [Technical Overview](technical-overview.md)  
 
-    - [Data]()
-    - [Telemetry Events]()
-    - [Server]()
-    - [API Documentation]()
-    - [Design Documentation]()
+    - [Data](technical-overview.md#data)
+    - [Telemetry Events](technical-overview.md#telemetry)
+    - [Server Requirements](technical-overview.md#server-requirements)
+    - [API Documentation](technical-overview.md#api-documentation)
+    - [Design Documentation](technical-overview.md#design-documentation)
     - [ODK Central]()
     - [Firebase]()
