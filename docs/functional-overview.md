@@ -11,7 +11,9 @@ The application also records statistics post each visit/spot assessment which ca
 NIPUN Lakshya app has been designed to cater to 
 
 (i) Parents (open to all) 
+
 (ii) Teacher (open to all) ~ 1.4L
+
 (iii) Mentor (login required) ~4k
 
 Mentors are the one who conduct spot assessments for students from a large pool of questions & oral fluency tests. The application is also configured in a manner which enables random question sets to be displayed for the same competency in order to help assess students in the same competency using different sets of questions. The application currently has three flows for the three different user types to conduct spot assessments, they are:
