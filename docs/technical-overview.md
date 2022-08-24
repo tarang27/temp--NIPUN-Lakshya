@@ -101,6 +101,38 @@ Additional server scale up plans for the application can be found [here](https:/
 
 # API Documentation
 
-List of APIs used in the Nipun Lakshya app:
+#### 1. Login Flow (Mentor):
 
-sendOTP - This API is used to send the OTP to the user's mobile. In order to authorize mentors, the NL app collects their phone number and sends an OTP to them upon every login. The send
+sendOTP - This API is used to send the OTP to the user's mobile. In order to authorize mentors, the NL app collects their phone number and sends an OTP to them upon every login. The sendOtp api asks for a phone number as an input.
+
+On successful number recognition, the api status is updated to success. On failure, the message is generated and sent as “Mobile number could not be verified. Please get in touch with the DC in your District's BSA office if your number is not registered on the Prerna Portal"
+ 
+verifyOTP - The verifyOTP is used for the verification of an OTP pin. On the correct verification, the result is updated as success. On failure on verification, the response code is updated as Error. The error is either an empty phone number field or invalid phone number is submitted.
+
+Authorization - On successful authorization of a mentor, the response code generated is OK and the Mentor is able to login into the app successfully. 
+
+On failure, the response is sent as either “Invalid fusion auth token” or “User with this mobile number was not found”
+
+Resend OTP - sendOTP api is again used for resending the OTP to the mentor.
+
+#### 2. Hasura GraphQL
+
+------------
+
+# Design Documentation
+
+#### 1. Generic Workflow:
+
+The following screen sequence diagram depicts the working of the NL app right from the launch. It explains the workflow for a generic user and the screens they can access. These users are Parent, Teacher and Mentors, each user subset can access different features according to their position (Teacher, Mentor, Parent etc.) inside the NL app.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186148181-a8b2b8c0-44e2-4131-ba67-074be3fe57b7.png" width="500"/>
+</p>
+
+#### 2. Mentor Workflow:
+
+Following diagram explains the mentor logic embedded within the Nipun Lakshya app. List of options displayed to a mentor right from the launch such as OTP login, How spot assessments are conducted, Selecting school and grade and Selecting competency etc. 
+
+#### 3. Workflow Working of the NL app:
+
+
