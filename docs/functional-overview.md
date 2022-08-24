@@ -60,6 +60,12 @@ The Nipun lakshya app can also be used offline.  One unique feature of the appli
 
 Internet connection is mandatory only when you Install the app for the first time. After that, the app can be used without the Internet as well, but it is recommended to use it with the internet if possible. 
 
+#### Mentor and Teacher Offline data flow:
+
+<p align="center">
+<img src="" width="500" height="300"/>
+</p>
+
 ------------
 
 # Flow Diagram
