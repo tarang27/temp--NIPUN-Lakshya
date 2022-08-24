@@ -1,4 +1,4 @@
-# Product Overview
+# Overview
 
 The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessment based on a list of questions or an oral fluency of the students, with the help of the Google Read along application. One unique feature of the application is the ability to facilitate & run the entire spot assessment flow in an offline mode, without the requirement of internet connection.
 
@@ -73,7 +73,7 @@ Internet connection is mandatory only when you Install the app for the first tim
 The following diagram depicts the workflow of the Nipun lakshya app. The app uses ODK, QumL and Read along for collecting the results. The final results are uploaded on both Posthog and Hasura. The posthog specifically works on analyzing all the events captured via Telemetry and works on improving the overall quality of the app while the Hasura stores the test results.
 
 <p align="center">
-<img src="" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
 
