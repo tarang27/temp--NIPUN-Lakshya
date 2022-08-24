@@ -58,12 +58,12 @@ The app will also help conduct third party Ghoshna assessment, in order to decla
 
 The Nipun lakshya app can also be used offline.  One unique feature of the application is the ability to facilitate & run the entire spot assessment flow in an offline mode, without the requirement of internet connection. A mentor can take a spot assessment test of multiple students in a completely offline mode. Internet connectivity is only required to submit those answers on the server.
 
-Internet connection is mandatory only when you Install the app for the first time. After that, the app can be used without the Internet as well, but it is recommended to use it with the internet if possible. 
+Internet connection is mandatory only when you Install the app for the first time. After that, the app can be used without the Internet as well, but it is recommended to use it with the in"possible. 
 
 #### Mentor and Teacher Offline data flow:
 
 <p align="center">
-<img src="" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/77961530/186476777-42a8c316-198b-4b0f-bfc4-3cf64839cbc6.png" width="500" height="300"/>
 </p>
 
 ------------
