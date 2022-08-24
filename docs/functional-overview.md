@@ -36,12 +36,6 @@ Parents can also use the app to view how their child’s grade class is fairing 
 
 Parents can also use the app to view their child’s test results and see how he/she is fairing across different subjects in school. The spot assessment is conducted for various school subjects such as Hindi, English, Math etc. The parents can see how other students in the same class progressed over these different subjects to get an idea of educational services provided to their child. The parents can see the test results by selecting the appropriate School, Grade and Subject as that of their child 
 
->List of schools displayed in the NL app according to different districts
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186121048-2160b1dc-3ccb-4d8c-978e-6be749f7444f.jpg" width="250"/> 
-</p>
-
 These Services do not collect any personal information at any point during usage. The application has been designed to take assessments of children from Grades 1-3, and is completely safe for them to use independently and/or with adult supervision.
 
 ------------
