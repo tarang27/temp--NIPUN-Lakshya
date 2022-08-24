@@ -101,5 +101,6 @@ Additional server scale up plans for the application can be found [here](https:/
 
 # API Documentation
 
+List of APIs used in the Nipun Lakshya app:
 
-
+sendOTP - This API is used to send the OTP to the user's mobile. In order to authorize mentors, the NL app collects their phone number and sends an OTP to them upon every login. The send
