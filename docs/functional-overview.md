@@ -44,6 +44,13 @@ These Services do not collect any personal information at any point during usage
 
 # Use cases
 
+Nipun Lakshya app is used by different sets of users which consist of Teachers, Mentors and Parents. For each one of them, the app provides multiple features and services.
+
+One of the most important features of this app is the ability to conduct spot assessments. The application has the functionality to conduct spot assessment based on a list of questions or an oral fluency of the students, with the help of the Google Read along application.
+
+The app will help in providing an indicative status of the FLN competencies achieved by the students in UP, and benchmark it against the Lakshya/Nipun Goals.
+
+The app will also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as NIPUN.
 
 ------------
 
