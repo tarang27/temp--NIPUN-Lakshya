@@ -139,10 +139,22 @@ NL app uses the API to do the following things:
 
 The following screen sequence diagram depicts the working of the NL app right from the launch. It explains the workflow for a generic user and the screens they can access. These users are Parent, Teacher and Mentors, each user subset can access different features according to their position (Teacher, Mentor, Parent etc.) inside the NL app.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186468418-84ffef49-1c68-4cbd-8a00-4351daba2d23.png" width="500" height="300"/>
+</p>
+
 #### 2. Mentor Workflow:
 
 Following diagram explains the mentor logic embedded within the Nipun Lakshya app. List of options displayed to a mentor right from the launch such as OTP login, How spot assessments are conducted, Selecting school and grade and Selecting competency etc. 
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186468806-d76655cf-e4d6-437d-a4d5-5243b9b29f8e.png" width="500" height="300"/>
+</p>
+
+
 #### 3. Workflow Working of the NL app:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
+</p>
 
