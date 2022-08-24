@@ -22,5 +22,4 @@ Table of Contents
     - [Server Requirements](technical-overview.md#server-requirements)
     - [API Documentation](technical-overview.md#api-documentation)
     - [Design Documentation](technical-overview.md#design-documentation)
-    - [ODK Central]()
-    - [Firebase]()
+    - [ODK Central](technical-overview.md#odk-central)
