@@ -65,9 +65,6 @@ Internet connection is mandatory only when you Install the app for the first tim
 # Flow Diagram
 
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186423369-1b052cf9-a796-45ef-8cf5-01b8f12276da.svg" width="500" height="300"/>
-</p>
 
 
 
