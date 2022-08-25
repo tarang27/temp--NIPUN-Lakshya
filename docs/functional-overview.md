@@ -14,7 +14,7 @@ NIPUN Lakshya app has been designed to cater to the following user types for con
 
 (i) Parents/Guardians (open to all) 
 
-(ii) Teacher (open to all) ~ 1.4L
+(ii) Teacher (open to all) ~ 4L
 
 (iii) Mentor (login required) ~4k
 
