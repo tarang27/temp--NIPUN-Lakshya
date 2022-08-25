@@ -9,7 +9,7 @@ The Nipun Lakshya application is written in Kotlin & Java language. Major depend
 3. Wokflow Configurations
 
 4. Data schema (Hasura & Postgress SQL)
-
+V=
 5. Apollo Client (app front of Hasura)
 
 6. Realm App database (Offline)
@@ -22,9 +22,7 @@ The Nipun Lakshya application is written in Kotlin & Java language. Major depend
 
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
-1. Data collected from a student:
-
-If we consider the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:
+1. Data collected from a student: If we consider the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
 
 - Data collected while using the application
 - The grade & subject selected for assessment
@@ -36,21 +34,21 @@ The data is captured through the ODK forms, when the students submit the answers
 
 2. The data from various schools can be:
 
-- Name of the educational institute
-- District
-- UDISE Code
-- Block type etc. 
+  - Name of the educational institute
+  - District
+  - UDISE Code
+  - Block type etc. 
 
 This data is then used to show the list of schools and their spot assessment score on the Nipun lakshya dashboard.
 
 3. For mentors, It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
 
-- Designation of the mentor
-- Mentor name
-- Target visits
-- District name
-- Total time taken for each visit
-- Block town name etc.
+  - Designation of the mentor
+  - Mentor name
+  - Target visits
+  - District name
+  - Total time taken for each visit
+  - Block town name etc.
 
 ------------
 

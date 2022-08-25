@@ -2,9 +2,9 @@
 
 The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments based on some pre-defined competencies using two formats:- 
 
-(i) a list of questions in a quiz format 
+(i) A list of questions in a quiz format 
 
-(ii) an oral fluency test of the students, with the help of the Google Read along application. This helps the application benefit users in areas with low internet penetration as well. 
+(ii) An oral fluency test of the students, with the help of the Google Read along application. This helps the application benefit users in areas with low internet penetration as well. 
 
 The application also records results post each visit/spot assessment which captures various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). 
 
