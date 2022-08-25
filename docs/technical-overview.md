@@ -1,13 +1,20 @@
+# Application Backend
+
 The Nipun Lakshya application is written in Kotlin & Java language. Major dependancies of the Nipun Lakshya Application include the following components:-
    
-1.ODK
-2.Google Read Along
-3.Wokflow Configurations
-4.Data schema (Hasura & Postgress SQL)
-5.Apollo Client (app front of Hasura)
-6.Realm App database (Offline)
-7.Posthog (Telemetry)
+1. ODK
 
+2. Google Read Along
+
+3. Wokflow Configurations
+
+4. Data schema (Hasura & Postgress SQL)
+
+5. Apollo Client (app front of Hasura)
+
+6. Realm App database (Offline)
+
+7. Posthog (Telemetry)
 
 # Data
 
