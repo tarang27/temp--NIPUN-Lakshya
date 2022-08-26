@@ -183,7 +183,7 @@ Most ODK users design their forms in Excel or Google Sheets using XLSForm. Examp
 XLSForm is a standard for building forms in Excel. XLSForms are simple to get started with and can represent complex forms. Once your form has been designed, you can upload the XLSForm directly to Central.
 
 <p align="center">
-<img src="" width="400"/>
+<img src="https://user-images.githubusercontent.com/77961530/186900113-7877240d-d9c8-460d-ac8b-5986385b5e58.png" width="400"/>
 </p>
 
 For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
