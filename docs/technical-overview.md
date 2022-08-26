@@ -1,8 +1,12 @@
 # Application Backend
 
-The Nipun Lakshya application is written in Kotlin & Java language. Major dependancies of the Nipun Lakshya Application include the following components:-
+The programming languages used for Nipun Lakshya android app is both Java and Kotlin. Other major dependancies of the Nipun Lakshya Application include the following components:-
    
+<<<<<<< HEAD
 1. ODK 
+=======
+1. ODK - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection or mobile carrier service at the time of data collection. In nipun lakshya app, ODK is used to collect answers from students at the time of Spot assessments.
+>>>>>>> 3126767c90dbf600da73a0c166065d68b0aaf4ff
 
 2. Google Read Along
 
@@ -180,7 +184,7 @@ How does an ODK form find its way into the application ?
 
 Create an excel (Sample) --> Convert to XML (Sample) ---> Upload on ODK Central 
 For detailed documentation of ODK go to this [link]([url](https://docs.getodk.org/))
->This section is under construction
+>This section is under construction.
 
 # Libraries used
 1. ODK 
