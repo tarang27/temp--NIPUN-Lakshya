@@ -2,14 +2,14 @@
 
 The Nipun Lakshya application is written in Kotlin & Java language. Major dependancies of the Nipun Lakshya Application include the following components:-
    
-1. ODK
+1. ODK 
 
 2. Google Read Along
 
 3. Wokflow Configurations
 
 4. Data schema (Hasura & Postgress SQL)
-V=
+
 5. Apollo Client (app front of Hasura)
 
 6. Realm App database (Offline)
@@ -183,16 +183,17 @@ For detailed documentation of ODK go to this [link]([url](https://docs.getodk.or
 >This section is under construction
 
 # Libraries used
-1.
+1. ODK 
 2.
 3.
 
-# Reference documents
-1. Application Sequence diagrams
-2. Wireframes
-3. Workflow configurations
-4. PRD
-5. API documentation
-6. 
+# Other References
+
+1. [Application Sequence diagrams](https://drive.google.com/file/d/1qEGwjTQCW0t5ARWIlTFoXZmRxPrx0d68/view?usp=sharing)
+2. [Workflow configurations](https://whimsical.com/nl-app-flow-2ZN7uRhm55JswpoqQUbV5o)
+3. [PSQL Data Diagrams](https://docs.google.com/spreadsheets/d/1IlF9f3MnnPi0RL3uIwp68_5wHGszY49TJ1bklS3ZQe4/edit#gid=0)
+4. [API documentation](https://docs.google.com/spreadsheets/d/1jDhi-FdY9KdCgc1XYN1NVWiCC26x8ew3bR9mjo66ugM/edit#gid=692359270)
+5. [Demo Vides](https://drive.google.com/drive/folders/15Aj6M3X_StpsVMo-tmmAo9CCqv32yR8Z?usp=sharing)
+6. [Privacy Policy](https://docs.google.com/document/d/1HXO-Y-_AoDoEmup-K0ANSEpM3Lt8ZS-WvZhuswbRxG4/edit)
 
 

@@ -11,8 +11,7 @@ Table of Contents
 
        c. [Parents](functional-overview.md#3-parents)
 
-    - [Use Cases](functional-overview.md#use-cases)
-    - [What works Offline?](functional-overview.md#offline-usage)
+    - [Core features](functional-overview.md#core-features)
     - [Workflow](functional-overview.md#workflow)
 
 2. [Technical Overview](technical-overview.md)  
