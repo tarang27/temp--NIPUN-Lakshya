@@ -4,17 +4,17 @@ The programming languages used for Nipun Lakshya android app are Java and Kotlin
    
 1. ODK - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection or mobile carrier service at the time of data collection. In nipun lakshya app, ODK is used to collect answers from students at the time of Spot assessments.
 
-2. Google Read Along
+2. Google Read Along - Google read along is designed for children 5+ years old that helps them learn to read by giving verbal and visual feedback as they read stories out loud. Read Along uses Google's speech recognition technology to help develop literacy skills.
 
 3. Wokflow Configurations
 
-4. Data schema (Hasura & Postgress SQL)
+4. Data - 
 
-5. Apollo Client (app front of Hasura)
+5. Apollo Client - Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI. 
 
-6. Realm App database (Offline)
+6. Realm App database - Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability: The Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
 
-7. Posthog (Telemetry)
+7. Posthog (Telemetry) - NL app uses Posthog and Telemetry for capturing user events. These events are then used to improve the overall quality of the Nipun Lakshya app. To know more about this, click [here](#telemetry).
 
 # Data
 
@@ -189,8 +189,9 @@ XLSForm is a standard for building forms in Excel. XLSForms are simple to get st
 For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
 
 # Libraries used
+
 1. ODK 
-2.
+2. Realm database
 3.
 
 # Other References
