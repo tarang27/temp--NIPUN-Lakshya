@@ -178,9 +178,15 @@ Following diagram explains the mentor logic embedded within the Nipun Lakshya ap
 
 How does an ODK form find its way into the application ?
 
-Create an excel (Sample) --> Convert to XML (Sample) ---> Upload on ODK Central 
-For detailed documentation of ODK go to this [link]([url](https://docs.getodk.org/))
->This section is under construction.
+Most ODK users design their forms in Excel or Google Sheets using XLSForm. Examples in this documentation use Excel file as notation to show form features.
+
+XLSForm is a standard for building forms in Excel. XLSForms are simple to get started with and can represent complex forms. Once your form has been designed, you can upload the XLSForm directly to Central.
+
+<p align="center">
+<img src="" width="400"/>
+</p>
+
+For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#central-forms-upload).
 
 # Libraries used
 1. ODK 
@@ -193,7 +199,7 @@ For detailed documentation of ODK go to this [link]([url](https://docs.getodk.or
 2. [Workflow configurations](https://whimsical.com/nl-app-flow-2ZN7uRhm55JswpoqQUbV5o)
 3. [PSQL Data Diagrams](https://docs.google.com/spreadsheets/d/1IlF9f3MnnPi0RL3uIwp68_5wHGszY49TJ1bklS3ZQe4/edit#gid=0)
 4. [API documentation](https://docs.google.com/spreadsheets/d/1jDhi-FdY9KdCgc1XYN1NVWiCC26x8ew3bR9mjo66ugM/edit#gid=692359270)
-5. [Demo Vides](https://drive.google.com/drive/folders/15Aj6M3X_StpsVMo-tmmAo9CCqv32yR8Z?usp=sharing)
+5. [Demo Videos](https://drive.google.com/drive/folders/15Aj6M3X_StpsVMo-tmmAo9CCqv32yR8Z?usp=sharing)
 6. [Privacy Policy](https://docs.google.com/document/d/1HXO-Y-_AoDoEmup-K0ANSEpM3Lt8ZS-WvZhuswbRxG4/edit)
 
 
