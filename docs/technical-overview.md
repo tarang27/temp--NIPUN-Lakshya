@@ -186,7 +186,7 @@ XLSForm is a standard for building forms in Excel. XLSForms are simple to get st
 <img src="" width="400"/>
 </p>
 
-For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#central-forms-upload).
+For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
 
 # Libraries used
 1. ODK 
