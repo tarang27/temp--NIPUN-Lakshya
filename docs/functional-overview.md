@@ -1,8 +1,14 @@
 # Overview
 
-The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments based on some pre-defined competencies using two formats:- (i) a list of questions in a quiz format; (ii) an oral fluency test of the students, with the help of the Google Read along application. One unique feature of the application is the ability to facilitate & run the entire spot assessment flow in an **offline mode**, without the requirement of internet connection. This helps the application benefit users in areas with low internet penetration as well. 
+The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments based on some pre-defined competencies using two formats:- 
 
-The application also records results post each visit/spot assessment which captures various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). The application is also configured in a manner which enables **random question sets** to be displayed for the same competency in order to help assess students in the same competency using different sets of questions. 
+1. A list of questions in a quiz format 
+
+2. An oral fluency test of the students, with the help of the Google Read along application. This helps the application benefit users in areas with low internet penetration as well. 
+
+The application also records results post each visit/spot assessment which captures various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). 
+
+The application is also configured in a manner which enables **random question sets** to be displayed for the same competency in order to help assess students in the same competency using different sets of questions. 
 
 The holistic scope for this application will be to provide an indicative status of the FLN (Foundational Learning & Numeracy) competencies achieved by students in UP, and benchmark it against the Lakshya/Nipun Goals. The app will also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as NIPUN. 
 
@@ -42,9 +48,9 @@ These Services do not collect any personal information at any point during usage
 
 ------------
 
-------------
+# Core Features
 
-# What works Offline? 
+#### 1. Offline Compatibility
 
 The Nipun lakshya app can also be used offline.  One unique feature of the application is the ability to facilitate & run the entire spot assessment flow in an offline mode, without the requirement of internet connection. A mentor can take a spot assessment test of multiple students in a completely offline mode. Internet connectivity is only required to submit those answers on the server.
 
@@ -55,6 +61,9 @@ Internet connection is mandatory only when you Install the app for the first tim
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77961530/186476777-42a8c316-198b-4b0f-bfc4-3cf64839cbc6.png" width="500" height="300"/>
 </p>
+
+
+#### 2. Randomization
 
 ------------
 

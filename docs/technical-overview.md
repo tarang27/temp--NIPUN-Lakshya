@@ -1,13 +1,20 @@
-The Nipun Lakshya application is written in Kotlin & Java language. Major dependancies of the Nipun Lakshya Application include the following components:-
-   
-1.ODK
-2.Google Read Along
-3.Wokflow Configurations
-4.Data schema (Hasura & Postgress SQL)
-5.Apollo Client (app front of Hasura)
-6.Realm App database (Offline)
-7.Posthog (Telemetry)
+# Application Backend
 
+The programming languages used for Nipun Lakshya android app are Java and Kotlin. Other major dependancies of the Nipun Lakshya Application include the following components:-
+   
+1. ODK - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection or mobile carrier service at the time of data collection. In nipun lakshya app, ODK is used to collect answers from students at the time of Spot assessments.
+
+2. Google Read Along - Google read along is designed for children 5+ years old that helps them learn to read by giving verbal and visual feedback as they read stories out loud. Read Along uses Google's speech recognition technology to help develop literacy skills.
+
+3. Wokflow Configurations
+
+4. Data - 
+
+5. Apollo Client - Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI. 
+
+6. Realm App database - Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability: The Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
+
+7. Posthog (Telemetry) - NL app uses Posthog and Telemetry for capturing user events. These events are then used to improve the overall quality of the Nipun Lakshya app. To know more about this, click [here](#telemetry).
 
 # Data
 
@@ -15,9 +22,7 @@ The Nipun Lakshya application is written in Kotlin & Java language. Major depend
 
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
-1. Data collected from a student:
-
-If we consider the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:
+1. Data collected from a student: If we consider the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
 
 - Data collected while using the application
 - The grade & subject selected for assessment
@@ -29,21 +34,21 @@ The data is captured through the ODK forms, when the students submit the answers
 
 2. The data from various schools can be:
 
-- Name of the educational institute
-- District
-- UDISE Code
-- Block type etc. 
+  - Name of the educational institute
+  - District
+  - UDISE Code
+  - Block type etc. 
 
 This data is then used to show the list of schools and their spot assessment score on the Nipun lakshya dashboard.
 
 3. For mentors, It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
 
-- Designation of the mentor
-- Mentor name
-- Target visits
-- District name
-- Total time taken for each visit
-- Block town name etc.
+  - Designation of the mentor
+  - Mentor name
+  - Target visits
+  - District name
+  - Total time taken for each visit
+  - Block town name etc.
 
 ------------
 
@@ -173,21 +178,29 @@ Following diagram explains the mentor logic embedded within the Nipun Lakshya ap
 
 How does an ODK form find its way into the application ?
 
-Create an excel (Sample) --> Convert to XML (Sample) ---> Upload on ODK Central 
-For detailed documentation of ODK go to this [link]([url](https://docs.getodk.org/))
->This section is under construction
+Most ODK users design their forms in Excel or Google Sheets using XLSForm. Examples in this documentation use Excel file as notation to show form features.
+
+XLSForm is a standard for building forms in Excel. XLSForms are simple to get started with and can represent complex forms. Once your form has been designed, you can upload the XLSForm directly to Central.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186900113-7877240d-d9c8-460d-ac8b-5986385b5e58.png" width="500"/>
+</p>
+
+For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
 
 # Libraries used
-1.
-2.
+
+1. ODK 
+2. Realm database
 3.
 
-# Reference documents
-1. Application Sequence diagrams
-2. Wireframes
-3. Workflow configurations
-4. PRD
-5. API documentation
-6. 
+# Other References
+
+1. [Application Sequence diagrams](https://drive.google.com/file/d/1qEGwjTQCW0t5ARWIlTFoXZmRxPrx0d68/view?usp=sharing)
+2. [Workflow configurations](https://whimsical.com/nl-app-flow-2ZN7uRhm55JswpoqQUbV5o)
+3. [PSQL Data Diagrams](https://docs.google.com/spreadsheets/d/1IlF9f3MnnPi0RL3uIwp68_5wHGszY49TJ1bklS3ZQe4/edit#gid=0)
+4. [API documentation](https://docs.google.com/spreadsheets/d/1jDhi-FdY9KdCgc1XYN1NVWiCC26x8ew3bR9mjo66ugM/edit#gid=692359270)
+5. [Demo Videos](https://drive.google.com/drive/folders/15Aj6M3X_StpsVMo-tmmAo9CCqv32yR8Z?usp=sharing)
+6. [Privacy Policy](https://docs.google.com/document/d/1HXO-Y-_AoDoEmup-K0ANSEpM3Lt8ZS-WvZhuswbRxG4/edit)
 
 
