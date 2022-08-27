@@ -11,7 +11,7 @@ Table of Contents
 
        c. [Parents](functional-overview.md#3-parents)
 
-    - [Core features](functional-overview.md#core-features)
+    - [Core Capabilties](functional-overview.md#core-capabilities)
     - [Workflow](functional-overview.md#workflow)
 
 2. [Technical Overview](technical-overview.md)  
