@@ -14,13 +14,13 @@ The programming languages used for Nipun Lakshya android app are Java and Kotlin
 
 6. Realm App database 
 
-7. Server Requirements
+7. Posthog (Telemetry) 
 
-8. API & Design documentation
+8. Server Requirements
 
-9. Posthog (Telemetry)
+8. API & Design documentation 
 
-10. Other references
+9. Other references
 
 ------------
 
@@ -109,7 +109,7 @@ NL app uses Hasura GraphQL for its server related requirements. Apollo gives a n
 
 # Realm
 
-Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability: The Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
+Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability for the NL app, the Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
 
 ------------
 
