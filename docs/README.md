@@ -18,7 +18,7 @@ Table of Contents
 
      - [ODK Central](technical-overview.md#odk-central)
      - [Read Along by Google](technical-overview.md#google-read-along) 
-     - [Wokflow Configurations](technical-overview.md)
+     - [Wokflow Configurations](technical-overview#workflow-configurations)
      - [Data](technical-overview.md#data)
      - [Apollo Client](technical-overview.md#apollo-client) 
      - [Realm App database](technical-overview.md#realm) 
