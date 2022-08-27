@@ -18,9 +18,9 @@ The programming languages used for Nipun Lakshya android app are Java and Kotlin
 
 8. Server Requirements
 
-8. API & Design documentation 
+9. API & Design documentation 
 
-9. Other references
+10. Other references
 
 ------------
 
