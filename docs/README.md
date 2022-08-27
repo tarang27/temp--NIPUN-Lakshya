@@ -11,14 +11,18 @@ Table of Contents
 
        c. [Parents](functional-overview.md#3-parents)
 
-    - [Core features](functional-overview.md#core-features)
+    - [Core Capabilties](functional-overview.md#core-capabilities)
     - [Workflow](functional-overview.md#workflow)
 
 2. [Technical Overview](technical-overview.md)  
 
-    - [Data](technical-overview.md#data)
-    - [Telemetry Events](technical-overview.md#telemetry)
-    - [Server Requirements](technical-overview.md#server-requirements)
-    - [API Documentation](technical-overview.md#api-documentation)
-    - [Design Documentation](technical-overview.md#design-documentation)
-    - [ODK Central](technical-overview.md#odk-central)
+     - [ODK Central](technical-overview.md#odk-central)
+     - [Read Along by Google](technical-overview.md#google-read-along) 
+     - [Wokflow Configurations](technical-overview#workflow-configurations)
+     - [Data](technical-overview.md#data)
+     - [Apollo Client](technical-overview.md#apollo-client) 
+     - [Realm App database](technical-overview.md#realm) 
+     - [Posthog (Telemetry)](technical-overview.md#posthog-telemetry) 
+     - [Server Requirements](technical-overview.md#server-requirements)
+     - [API & Design documentation](technical-overview.md#api-documentation) 
+     - [Other references](technical-overview.md#other-references)

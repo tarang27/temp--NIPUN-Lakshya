@@ -24,7 +24,7 @@ NIPUN Lakshya app has been designed to cater to the following user types for con
 
 (iii) Mentor (login required) ~4k
 
-The flow of the application differs for all the three users:-
+The flow of the application differs for all the three users:
 
 ### 1. Mentors
 
@@ -48,7 +48,7 @@ These Services do not collect any personal information at any point during usage
 
 ------------
 
-# Core Features
+# Core Capabilities
 
 #### 1. Offline Compatibility
 
@@ -64,6 +64,27 @@ Internet connection is mandatory only when you Install the app for the first tim
 
 
 #### 2. Randomization
+
+The NL app uses randomization techniques to shuffle data and randomly generate a set of questions for any particular student. Randomization in the NL app essentially means that, A finite number of questions are randomly pulled from a large question pool or question bank, so that each learner gets a different set of questions. One student may have to face oral spot assessment while the other may be having multiple choice questions for his first attempt.
+
+Goals of randomizations are as follows:
+
+- Motivate students to think differently
+- Improve quality of assessments 
+- Provide a variety of questions
+- Motivates students to think about the question, instead of memorizing the order of the answers.
+- Discourages students from collaborating as they're less likely to be seeing the same questions at the same time, in the same order
+
+#### 3. Configuarability
+
+Configurability means that the developers can increase the scope of the NL app to include different components of the app as well as improve the existing ones. Developers can configure things such as:
+
+- Add new subjects
+- New question sets for each competency levels and subjects
+- Provide options for competency levels
+- Additional grades
+
+An added benefit of configurability is that the NL app can be catered to students of different competency levels and grades. The newly added subjects and question sets can be useful for conducting spot assessments and analyzing educational institutions over multiple parameters.
 
 ------------
 
