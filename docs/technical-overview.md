@@ -59,7 +59,7 @@ The results of the oral assessment will be collected by the Aggregate result col
 Workflow based configurations in the Nipun Lakshya app decides the question sets which are to be generated according to different grade, subject and competency level. After the end of each assessment, the Workflow engine reads these configurations according to the workflow module.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/187018925-8114ec78-ce6f-4b4b-9c44-264226311ea6.png" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/77961530/187018925-8114ec78-ce6f-4b4b-9c44-264226311ea6.png" width="500"/>
 </p>
 
 <p align="center">
