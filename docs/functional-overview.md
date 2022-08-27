@@ -24,7 +24,7 @@ NIPUN Lakshya app has been designed to cater to the following user types for con
 
 (iii) Mentor (login required) ~4k
 
-The flow of the application differs for all the three users:-
+The flow of the application differs for all the three users:
 
 ### 1. Mentors
 
