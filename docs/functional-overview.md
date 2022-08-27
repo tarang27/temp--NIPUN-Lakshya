@@ -48,7 +48,7 @@ These Services do not collect any personal information at any point during usage
 
 ------------
 
-# Core Features
+# Core Capabilities
 
 #### 1. Offline Compatibility
 
