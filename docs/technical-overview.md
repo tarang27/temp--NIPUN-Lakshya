@@ -1,8 +1,8 @@
-# Application Backend
+# Technical Overview
 
 The programming languages used for Nipun Lakshya android app are Java and Kotlin. Other major dependancies of the Nipun Lakshya Application include the following components:-
    
-1. ODK 
+1. ODK Central
 
 2. Google Read Along 
 
@@ -14,7 +14,13 @@ The programming languages used for Nipun Lakshya android app are Java and Kotlin
 
 6. Realm App database 
 
-7. Posthog (Telemetry)
+7. Server Requirements
+
+8. API & Design documentation
+
+9. Posthog (Telemetry)
+
+10. Other references
 
 ------------
 
@@ -221,11 +227,13 @@ Following diagram explains the mentor logic embedded within the Nipun Lakshya ap
 </p>
 
 
-# Libraries used
+### Libraries used
 
 1. ODK 
 2. Realm database
 3.
+
+--------
 
 # Other References
 
