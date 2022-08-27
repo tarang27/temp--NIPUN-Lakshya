@@ -2,19 +2,51 @@
 
 The programming languages used for Nipun Lakshya android app are Java and Kotlin. Other major dependancies of the Nipun Lakshya Application include the following components:-
    
-1. ODK - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection or mobile carrier service at the time of data collection. In nipun lakshya app, ODK is used to collect answers from students at the time of Spot assessments.
+1. ODK 
 
-2. Google Read Along - Google read along is designed for children 5+ years old that helps them learn to read by giving verbal and visual feedback as they read stories out loud. Read Along uses Google's speech recognition technology to help develop literacy skills.
+2. Google Read Along 
 
 3. Wokflow Configurations
 
-4. Data - 
+4. Data
 
-5. Apollo Client - Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI. 
+5. Apollo Client 
 
-6. Realm App database - Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability: The Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
+6. Realm App database 
 
-7. Posthog (Telemetry) - NL app uses Posthog and Telemetry for capturing user events. These events are then used to improve the overall quality of the Nipun Lakshya app. To know more about this, click [here](#telemetry).
+7. Posthog (Telemetry)
+
+------------
+
+# ODK Central
+
+How does an ODK form find its way into the application ?
+
+Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection or mobile carrier service at the time of data collection. In nipun lakshya app, ODK is used to collect answers from students at the time of Spot assessments.
+
+Most ODK users design their forms in Excel or Google Sheets using XLSForm. Examples in the image below uses Excel file as notation to show form features.
+
+XLSForm is a standard for building forms in Excel. XLSForms are simple to get started with and can represent complex forms. Once your form has been designed, you can upload the XLSForm directly to Central.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/186900113-7877240d-d9c8-460d-ac8b-5986385b5e58.png" width="500"/>
+</p>
+
+For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
+
+------------
+
+# Google Read Along
+
+Google read along is an android app designed for children 5+ years old that helps them learn to read by giving verbal and visual feedback as they read stories out loud. Read Along uses Google's speech recognition technology to help develop literacy skills.
+
+Nipun lakshya app uses Google-read-along for oral assessments. In order to use the app along with Nipun lakshya, we must have Google-read-along installed on our mobile device from the play store.
+
+Whenever the questions related to oral spot assessments are generated, the google read along app opens on our device automatically. The mentor needs to enter the partner code “upprerna” inside the app. From there on, all the oral assessment questions are conducted on the google-read-along app itself. 
+
+The results of the oral assessment will be collected by the Aggregate result collector and will be uploaded on Hasura and Posthog.
+
+------------
 
 # Data
 
@@ -61,7 +93,21 @@ Posthog is integrated to function with Telemetry events. Both Posthog and Teleme
 
 ------------
 
-# Telemetry
+# Apollo Client
+
+Apollo Client is a comprehensive state management library for JavaScript that enables you to manage both local and remote data with GraphQL. Use it to fetch, cache, and modify application data, all while automatically updating your UI. Apollo Kotlin (formerly Apollo Android) is a GraphQL client that generates Kotlin and Java models from GraphQL queries.
+
+NL app uses Hasura GraphQL for its server related requirements. Apollo gives a neat abstraction layer and an interface to your GraphQL server. You don't need to worry about constructing your queries with request body, headers and options, that you might have done with axios or fetch say. You can directly write queries and mutations in GraphQL and they will automatically be sent to your server via your apollo client instance.
+
+------------
+
+# Realm
+
+Realm is an object-oriented mobile database built to make storing, querying, and syncing data simple. The purpose of using Realm in NL project is to avail offline compatibility. Realm offers Network Reliability: The Realm database is offline-first. It means that you always read from and write to the local database and not over the network.
+
+------------
+
+# Posthog (Telemetry)
 
 Telemetry is an user behavior analytics tool that helps you understand how different users interact with your application. The Telemetry code is embedded in the Nipun Lakshya app. After the code is set up, Telemetry will start capturing and analyzing the user activity on the application.
 
@@ -174,19 +220,6 @@ Following diagram explains the mentor logic embedded within the Nipun Lakshya ap
 <img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
-# ODK Central
-
-How does an ODK form find its way into the application ?
-
-Most ODK users design their forms in Excel or Google Sheets using XLSForm. Examples in this documentation use Excel file as notation to show form features.
-
-XLSForm is a standard for building forms in Excel. XLSForms are simple to get started with and can represent complex forms. Once your form has been designed, you can upload the XLSForm directly to Central.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/186900113-7877240d-d9c8-460d-ac8b-5986385b5e58.png" width="500"/>
-</p>
-
-For detailed documentation regarding ODK forms, you can check out their official documentation [here](https://docs.getodk.org/central-forms/#uploading-a-form-to-odk-central).
 
 # Libraries used
 
