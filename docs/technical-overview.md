@@ -103,9 +103,9 @@ This data is then used to show the list of schools and their spot assessment sco
 
 ------------
 
-### How the Data is captured and stored?
+### How is the Data captured and stored?
 
-The data is collected from students through ODK forms and uploaded on both Hasura/Firebase and Posthog. Hasura/Firebase is the server we use for storing the answers and score cards of each student. Along with this, they also store all the above mentioned data of mentors and schools such as mentor name, designation, target visits and school name, UDISE code, block type etc.
+The data is collected from the results of spot assessments through ODK forms and uploaded on both Hasura/Firebase and Posthog. Hasura/Firebase is the server we use for storing the answers and score cards of each student. Along with this, they also store all the above mentioned data of mentors and schools such as mentor name, designation, target visits and school name, UDISE code, block type etc.
 
 Posthog along with storing the data also performs analytics on the collected data. 
 Posthog is integrated to function with Telemetry events. Both Posthog and Telemetry are basically user behavior analytics tools that help you understand how different users interact with your application.
