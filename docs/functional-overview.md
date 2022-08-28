@@ -4,13 +4,11 @@ The objective of NIPUN Lakshya App is to allow all users in the state of Uttar P
 
 1. A list of questions in a quiz format 
 
-2. An oral fluency test of the students, with the help of the Google Read along application. This helps the application benefit users in areas with low internet penetration as well. 
+2. An oral fluency test of the students, with the help of the Google Read along application. 
 
-The application also records results post each visit/spot assessment which captures various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). 
+Results from each visit/spot assessment are also captured with various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). 
 
-The application is also configured in a manner which enables **random question sets** to be displayed for the same competency in order to help assess students in the same competency using different sets of questions. 
-
-The holistic scope for this application will be to provide an indicative status of the FLN (Foundational Learning & Numeracy) competencies achieved by students in UP, and benchmark it against the Lakshya/Nipun Goals. The app will also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as NIPUN. 
+The holistic scope for this application will be to provide an indicative status of the **FLN (Foundational Learning & Numeracy)** competencies achieved by students in UP, and benchmark it against the NIPUN Lakshyas. The app can also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as **NIPUN**. 
 
 ------------
 
