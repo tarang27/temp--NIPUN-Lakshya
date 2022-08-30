@@ -13,6 +13,8 @@ Before deep-diving into the specifics of the application, let us first understan
 3. The mentor randomly picks some students and asks a few questions related to the subject
 4. The mentor makes a note of the accuracy and share a feedback for the same with the class teacher & principal
 
+Using tech, enabled via Nipun Lakshya Application, conduction of spot assessments has been digitised.
+These spot assessments are based on some pre-defined competencies using two formats:-
 
 1. A list of questions in a quiz format 
 
