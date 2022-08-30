@@ -29,7 +29,7 @@ The holistic scope for this application will be to provide an indicative status 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77961530/187512369-6884e9f8-1a38-4da2-a1f9-a9ed80c0f7b2.png" height="700"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/77961530/187513904-679b8817-9a90-4e62-9f04-8538df149e92.png" height="700"/>
+<img src="https://user-images.githubusercontent.com/77961530/187514742-a50969ef-2288-4964-9ca3-32f08e631a09.png" height="700"/>
 </p>
 
 ### What are competencies or learning outcomes ?
