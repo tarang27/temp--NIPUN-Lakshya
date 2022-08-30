@@ -4,6 +4,10 @@ The objective of NIPUN Lakshya App is to allow all users in the state of Uttar P
 
 Before deep-diving into the specifics of the application, let us first understand 
 
+**What are competencies or learning outcomes ?**
+
+Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program
+
 **What are spot assessments ?**
 
 **Spot Assessment** is a form of quick dipstick analysis that helps understand the learning levels of any beneficiary. In a school, a spot assessment without tech would look like this:-
@@ -107,11 +111,4 @@ The following diagram depicts the workflow of the Nipun lakshya app. The app use
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
-
-
-
-
-
-
-
 
