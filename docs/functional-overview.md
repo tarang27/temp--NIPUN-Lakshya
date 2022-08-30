@@ -7,6 +7,8 @@ Before deep-diving into the specifics of the application, let us first understan
 **What are competencies or learning outcomes ?**
 
 Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program
+Example:- One learning outcome for Grade-3 Mathematics as defined by CBSE is:-  _solves simple daily life problems using subtraction of three digit numbers
+with and without regrouping, sums not exceeding 999_
 
 **What are spot assessments ?**
 
