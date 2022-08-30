@@ -4,8 +4,8 @@ The objective of NIPUN Lakshya App is to allow all users in the state of Uttar P
 
 Before deep-diving into the specifics of the application, let us first understand 
 
-**What are spot assessments ?
-**
+**What are spot assessments ?**
+
 **Spot Assessment** is a form of quick dipstick analysis that helps understand the learning levels of any beneficiary. In a school, a spot assessment without tech would look like this:-
 
 1. A mentor goes to a classroom during study hours
