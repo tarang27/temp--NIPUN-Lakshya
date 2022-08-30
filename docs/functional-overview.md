@@ -103,6 +103,12 @@ The following diagram depicts the workflow of the Nipun lakshya app. The app use
 <img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
+- **ODK** - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection.
+
+- **QuML** - QuML stands for Question Markup Language. It is a specification for storage, rendering and distribution of Questions and Tests.
+
+- **Read along** - Read Along is a free reading app for Android that helps children have fun while they learn to read.
+
 
 
 

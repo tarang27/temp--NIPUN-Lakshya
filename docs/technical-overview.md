@@ -191,7 +191,7 @@ Additional server scale up plans for the application can be found [here](https:/
 
 #### 1. Login Flow (Mentor):
 
-BASE URL: "http://165.22.211.112:8000/"					
+Base URL: "http://165.22.211.112:8000/"					
 
 **sendOTP** 
 
