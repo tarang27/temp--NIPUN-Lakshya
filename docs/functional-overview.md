@@ -93,7 +93,7 @@ Goals of randomizations are as follows:
 - Motivates students to think about the question, instead of memorizing the order of the answers.
 - Discourages students from collaborating as they're less likely to be seeing the same questions at the same time, in the same order
 
-#### 3. Configuarability
+#### 3. Configurability
 
 Configurability means that the developers can increase the scope of the NL app to include different components of the app as well as improve the existing ones. Developers can configure things such as:
 
@@ -114,19 +114,8 @@ The following diagram depicts the workflow of the Nipun lakshya app. The app use
 <img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
-<<<<<<< HEAD
 - **ODK** - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection.
 
 - **QuML** - QuML stands for Question Markup Language. It is a specification for storage, rendering and distribution of Questions and Tests.
 
 - **Read along** - Read Along is a free reading app for Android that helps children have fun while they learn to read.
-
-
-
-
-
-
-
-
-=======
->>>>>>> 47c20896b38d42510dc2ed5147c1ede720cfc184

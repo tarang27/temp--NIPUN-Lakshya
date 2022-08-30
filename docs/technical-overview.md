@@ -73,7 +73,9 @@ Workflow based configurations in the Nipun Lakshya app decides the question sets
 
 The NL app collects different kinds of data including student assessment data, list of schools available in the districts, mentors data, competency mapping etc.
 
-1. Data collected from a student: If we take in account the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
+1. **Assessment Performance data** 
+
+If we take in account the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
 
 - Data collected while using the application
 - The grade & subject selected for assessment
@@ -83,16 +85,20 @@ The NL app collects different kinds of data including student assessment data, l
 
 The data is captured through the ODK forms, when the students submit the answers the data is captured and stored in the server.
 
-2. The data from various schools can be:
+2. **Geographical data**
 
-  - Name of the educational institute
+The NL app, by default categorizes the data of various educational institutions throughout the state on the basis of various geographical parameters such as:
+
   - District
   - UDISE Code
-  - Block type etc. 
+  - Block type
+  - Name of the educational institute 
 
 This data is then used to show the list of schools and their spot assessment score on the Nipun lakshya dashboard.
 
-3. For mentors, It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
+3. **Mentor metadata**
+
+It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
 
   - Designation of the mentor
   - Mentor name
