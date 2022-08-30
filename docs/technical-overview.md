@@ -75,13 +75,13 @@ The NL app collects different kinds of data including student assessment data, l
 
 1. **Assessment Performance data** 
 
-If we take in account the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
+   If we take in account the data collected from a student, the NL app does not collect any personal data of any students. Instead data is collected from assessments conducted through the application. Such as:  
 
-- Data collected while using the application
-- The grade & subject selected for assessment
-- Performance on questions tested
-- Score cards
-- Final performance of a student is also recorded
+     - Data collected while using the application
+     - The grade & subject selected for assessment
+     - Performance on questions tested
+     - Score cards
+     - Final performance of a student is also recorded
 
 The data is captured through the ODK forms, when the students submit the answers the data is captured and stored in the server.
 
@@ -98,7 +98,7 @@ This data is then used to show the list of schools and their spot assessment sco
 
 3. **Mentor metadata**
 
-It is essential that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
+It is essential for mentors that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
 
   - Designation of the mentor
   - Mentor name
