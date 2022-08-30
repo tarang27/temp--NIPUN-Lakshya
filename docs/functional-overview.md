@@ -42,7 +42,9 @@ NIPUN Lakshya app has been designed to cater to the following user types for con
 
 (iii) Mentor (login required) ~4k
 
-The flow of the application differs for all the three users:
+The flow of the application differs for all the three users. While a Mentor has to login to the app via OTP to view the assessment data regarding various educational institutions and grades, the Teacher does not have to go through the similar process. The teacher just needs to click on the "Select school" option and choose appropriate grades and subjects to view the same data.
+
+Similarly, the Parent has a different workflow than the Teacher. A parent is able to directly select Grade and Subject to view the data without either logging in to the app or selecting educational institutions. 
 
 ### 1. Mentors
 
