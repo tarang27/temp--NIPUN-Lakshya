@@ -27,9 +27,9 @@ Results from each visit/spot assessment are also captured with various insights 
 The holistic scope for this application will be to provide an indicative status of the **FLN (Foundational Learning & Numeracy)** competencies achieved by students in UP, and benchmark it against the NIPUN Lakshyas. The app can also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as **NIPUN**. 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/187529018-1444a896-32e4-43eb-8683-5bbce84c0fed.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/77961530/187529764-88b64004-f33b-41a3-a987-f77f398b105c.png" height="700"/>
   &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/77961530/187529296-a1184d42-5404-4f3c-8f20-9f967d1c226a.png" height="500"/>
+<img src="https://user-images.githubusercontent.com/77961530/187529819-9b0ec550-f798-40cd-aa77-5fc0817d2e4b.png" height="700"/>
 </p>
 
 ### What are competencies or learning outcomes ?
