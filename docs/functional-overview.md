@@ -1,6 +1,15 @@
 # Overview
 
-The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments based on some pre-defined competencies using two formats:- 
+The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments. 
+
+
+### What are Spot assessments?
+
+
+
+
+
+These spot assessments are based on some pre-defined competencies using two formats:- 
 
 1. A list of questions in a quiz format 
 
@@ -26,7 +35,7 @@ The flow of the application differs for all the three users:
 
 ### 1. Mentors
 
-The Nipun Lakshya app is used by mentors in the state to conduct Spot assessments for one or more students in grades 1-3. Mentors conduct regular visits to schools in which they have a bunch of responsibilites like classroom observations, teacher feedback, spot assessments of students etc. In these visits, mentors conduct the spot assessment for students in order to assess the learning levels of students & share the same with school principals as well as block officials.
+The Nipun Lakshya app is used by mentors in the state to conduct Spot assessments for one or more students in grades 1-3. Mentors conduct regular visits to schools in which they have a various responsibilites like classroom observations, teacher feedback, spot assessments of students etc. In these visits, mentors conduct the spot assessment for students in order to assess the learning levels of students & share the same with school principals as well as block officials.
 
 These spot assessments are completely competency based & the mentor has the option of selecting the number of students for whom they plan to conduct spot assessments. For example, If the mentor decides to conduct a spot assessment for 5 students, each student can take the test on the mentor's mobile device one at a time. After the test, the app displays results based on various parameters such as number of students assessed, how many questions have been answered, total accuracy of those answers etc.
 
