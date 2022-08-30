@@ -1,12 +1,22 @@
 # Overview
 
-The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments. 
+The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct a spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments based on some pre-defined competencies.
+
+Before deep-diving into the specifics of the application, let us first understand
 
 ### What are Spot assessments?
 
-Spot assessments are a set of questions spread across multiple areas of education such as logical, verbal and mathematical assessments etc. These assessments are given to multiple students from different grades and competency levels. The data from these students is used to check the overall quality of education provided by various educational institutions across Uttar pradesh.
+**Spot Assessment** is a form of quick dipstick analysis that helps understand the learning levels of any beneficiary. The idea is to select a few people in a group and conduct some tests with them. The data from these test exams is used to determine the average intelligence of that group in a particular area. This concept is referred to as spot assessment. Through the nipun lakshya app, we are adapting these spot assessments for educational institutions.
 
-These spot assessments are based on some pre-defined competencies using two formats:- 
+In a school, a spot assessment without tech would look like this:-
+
+1. A mentor goes to a classroom during study hours
+2. The mentor observes teaching inside the classroom
+3. The mentor randomly picks some students and asks a few questions related to the subject
+4. The mentor makes a note of the accuracy and share a feedback for the same with the class teacher & principal
+
+Using tech, enabled via Nipun Lakshya Application, conduction of spot assessments has been digitised.
+These spot assessments are based on some pre-defined competencies using two formats:-
 
 1. A list of questions in a quiz format 
 
@@ -15,6 +25,12 @@ These spot assessments are based on some pre-defined competencies using two form
 Results from each visit/spot assessment are also captured with various insights like number of students assessed, accuracy of each student, accuracy of students in different grades & subjects etc. which is reflective of the learning level achieved by the student(s). 
 
 The holistic scope for this application will be to provide an indicative status of the **FLN (Foundational Learning & Numeracy)** competencies achieved by students in UP, and benchmark it against the NIPUN Lakshyas. The app can also help conduct third party Ghoshna assessment, in order to declare a specific school/block/district as **NIPUN**. 
+
+Before deep-diving into the specifics of the application, let us first understand 
+
+### What are competencies or learning outcomes ?
+
+Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program.
 
 ------------
 
@@ -100,6 +116,7 @@ The following diagram depicts the workflow of the Nipun lakshya app. The app use
 <img src="https://user-images.githubusercontent.com/77961530/186469025-583e5353-60cb-4617-bed4-67e156d10d0e.png" width="500" height="300"/>
 </p>
 
+<<<<<<< HEAD
 - **ODK** - Open Data Kit (ODK) is a open-source suite of tools that allows data collection using Android mobile devices and data submission to an online server, even without an Internet connection.
 
 - **QuML** - QuML stands for Question Markup Language. It is a specification for storage, rendering and distribution of Questions and Tests.
@@ -113,3 +130,5 @@ The following diagram depicts the workflow of the Nipun lakshya app. The app use
 
 
 
+=======
+>>>>>>> 47c20896b38d42510dc2ed5147c1ede720cfc184
