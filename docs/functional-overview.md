@@ -32,6 +32,10 @@ The holistic scope for this application will be to provide an indicative status 
 <img src="https://user-images.githubusercontent.com/77961530/187531258-51d887be-0600-4775-bb7c-cbffffb91fb0.png" height="700"/>
 </p>
 
+<p align="center">
+Fig. NL app verbal and multiple choice questions spot assessment questions
+</p>
+
 ### What are competencies or learning outcomes ?
 
 Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program.
@@ -67,7 +71,7 @@ For example, If the mentor decides to conduct a spot assessment for 5 students, 
 
 These results are then collected to determine and improve the overall quality of education provided by the various educational institutes across the state of Uttar Pradesh. 
 
-As mentioned above, the mentor has to login via OTP. After the successful login, the mentor will be given an option to select grade, subject and competency level. The diagram below shows the mentor process on the NL app:
+As mentioned above, the mentor has to login via OTP. After the successful login, the mentor will be given an option to select grade, subject and competency level. The app prompts the mentor to set a PIN password. The diagram below shows the mentor process on the NL app:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77961530/187533354-6f235233-5de9-4ba7-8c45-72ce0d3c2700.png" height="700"/>
@@ -75,15 +79,17 @@ As mentioned above, the mentor has to login via OTP. After the successful login,
 <img src="https://user-images.githubusercontent.com/77961530/187533387-5c1ada0f-0036-45b1-9729-711c68c24f4f.png" height="700"/>
 </p>
 
-Fig. Flow of the mentor in the NL application
+<p align="center">
+Fig. Flow of the Mentor in the NL application
+</p>
 
 ### 2. Teachers
 
 Similarly, teachers can also use the Nipun Lakshya app to determine how their students are progressing across different subjects. The results of the spot assessment will be also visible to the teacher and they will be able to accurately analyze which subjects students need the most help with. 
 
-Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies. 
+Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies. The overall results of the spot assessment may also help identify any mistakes in techniques used by teaching staff to teach students. 
 
-The overall results of the spot assessment may also help identify any mistakes in techniques used by teaching staff to teach students.
+The teachers do not need to login via OTP like mentors. Upon entering the NL app, they can select the geographical pinpoints of their school such as district, block type etc. and then move forward with the usual steps.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77961530/187534448-1f13434d-cca2-4ceb-93f3-4ab21e615f47.png" height="700"/>
@@ -91,7 +97,9 @@ The overall results of the spot assessment may also help identify any mistakes i
 <img src="https://user-images.githubusercontent.com/77961530/187534495-35d35487-d8f4-4441-b6c4-69a7836822cd.png" height="700"/>
 </p>
 
-Fig. Flow of the teacher in the NL application
+<p align="center">
+Fig. Flow of the Teacher in the NL application
+</p>
 
 ### 3. Parents/Guardians
 
