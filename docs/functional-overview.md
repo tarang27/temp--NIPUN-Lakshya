@@ -67,6 +67,14 @@ For example, If the mentor decides to conduct a spot assessment for 5 students, 
 
 These results are then collected to determine and improve the overall quality of education provided by the various educational institutes across the state of Uttar Pradesh. 
 
+As mentioned above, the mentor has to login via OTP. After the successful login, the mentor will be given an option to select grade, subject and competency level. The diagram below shows the mentor process on the NL app:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/77961530/187533354-6f235233-5de9-4ba7-8c45-72ce0d3c2700.png" height="700"/>
+  &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://user-images.githubusercontent.com/77961530/187533387-5c1ada0f-0036-45b1-9729-711c68c24f4f.png" height="700"/>
+</p>
+
 ### 2. Teachers
 
 Similarly, teachers can also use the Nipun Lakshya app to determine how their students are progressing across different subjects. The results of the spot assessment will be also visible to the teacher and they will be able to accurately analyze which subjects students need the most help with. 
