@@ -46,9 +46,16 @@ The flow of the application differs for all the three users:
 
 ### 1. Mentors
 
-The Nipun Lakshya app is used by mentors in the state to conduct Spot assessments for one or more students in grades 1-3. Mentors conduct regular visits to schools in which they have a various responsibilites like classroom observations, teacher feedback, spot assessments of students etc. In these visits, mentors conduct the spot assessment for students in order to assess the learning levels of students & share the same with school principals as well as block officials.
+The Nipun Lakshya app is used by mentors in the state to conduct Spot assessments for one or more students in grades 1-3. Mentors conduct regular visits to schools in which they have a various responsibilites like
+- Classroom observations
+- Teacher feedback
+- Spot assessments of students etc. 
 
-These spot assessments are completely competency based & the mentor has the option of selecting the number of students for whom they plan to conduct spot assessments. For example, If the mentor decides to conduct a spot assessment for 5 students, each student can take the test on the mentor's mobile device one at a time. After the test, the app displays results based on various parameters such as number of students assessed, how many questions have been answered, total accuracy of those answers etc.
+In these visits, mentors conduct the spot assessment for students in order to assess the learning levels of students & share the same with school principals as well as block officials.
+
+These spot assessments are completely competency based & the mentor has the option of selecting the number of students for whom they plan to conduct spot assessments. 
+
+For example, If the mentor decides to conduct a spot assessment for 5 students, each student can take the test on the mentor's mobile device one at a time. After the test, the app displays results based on various parameters such as number of students assessed, how many questions have been answered, total accuracy of those answers etc.
 
 These results are then collected to determine and improve the overall quality of education provided by the various educational institutes across the state of Uttar Pradesh. 
 
@@ -56,7 +63,9 @@ These results are then collected to determine and improve the overall quality of
 
 Similarly, teachers can also use the Nipun Lakshya app to determine how their students are progressing across different subjects. The results of the spot assessment will be also visible to the teacher and they will be able to accurately analyze which subjects students need the most help with. 
 
-Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies. The overall results of the spot assessment may also help identify any mistakes in techniques used by teaching staff to teach students.
+Teaching faculties can view the results of students across all grades and use that data to improve upon the existing teaching methodologies. 
+
+The overall results of the spot assessment may also help identify any mistakes in techniques used by teaching staff to teach students.
 
 ### 3. Parents/Guardians
 
