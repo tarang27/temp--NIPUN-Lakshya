@@ -87,25 +87,25 @@ The data is captured through the ODK forms, when the students submit the answers
 
 2. **Geographical data**
 
-The NL app, by default categorizes the data of various educational institutions throughout the state on the basis of various geographical parameters such as:
-
-  - District
-  - UDISE Code
-  - Block type
-  - Name of the educational institute 
+   The NL app, by default categorizes the data of various educational institutions throughout the state on the basis of various geographical parameters such as:
+     
+     - District
+     - UDISE Code
+     - Block type
+     - Name of the educational institute 
 
 This data is then used to show the list of schools and their spot assessment score on the Nipun lakshya dashboard.
 
 3. **Mentor metadata**
-
-It is essential for mentors that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
-
-  - Designation of the mentor
-  - Mentor name
-  - Target visits
-  - District name
-  - Total time taken for each visit
-  - Block town name etc.
+   
+   It is essential for mentors that they provide their Phone numbers in order to login to the app via OTP. Nipun lakshya authorizes the mentors on its platforms through their mobile phone numbers. Other data collected can be:
+   
+     - Designation of the mentor
+     - Mentor name
+     - Target visits
+     - District name
+     - Total time taken for each visit
+     - Block town name etc.
 
 ------------
 
