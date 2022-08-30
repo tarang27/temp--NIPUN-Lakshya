@@ -2,7 +2,6 @@
 
 The objective of NIPUN Lakshya App is to allow all users in the state of Uttar Pradesh to conduct spot assessment of students of Grades 1-3. The application has the functionality to conduct spot assessments. 
 
-
 ### What are Spot assessments?
 
 Spot assessments are a set of questions spread across multiple areas of education such as logical, verbal and mathematical assessments etc. These assessments are given to multiple students from different grades and competency levels. The data from these students is used to check the overall quality of education provided by various educational institutions across Uttar pradesh.
