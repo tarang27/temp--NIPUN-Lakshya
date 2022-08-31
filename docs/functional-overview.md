@@ -5,7 +5,7 @@ The objective of NIPUN Lakshya App is to allow all users in the state of Uttar P
 
 Before deep-diving into the specifics of the application, let us first understand about competencies & spot assessments in brief:
 
-### What are competencies?
+### What are competencies or learning outcomes ?
 
 Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program
 Example:- One learning outcome for Grade-3 Mathematics is:-  _solves simple daily life problems using subtraction of three digit numbers
@@ -44,9 +44,6 @@ The holistic scope for this application will be to provide an indicative status 
 Fig. NL app verbal and multiple choice questions spot assessment questions
 </p>
 
-### What are competencies or learning outcomes ?
-
-Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program.
 
 ------------
 
