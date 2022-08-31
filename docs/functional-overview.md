@@ -5,11 +5,16 @@ The objective of NIPUN Lakshya App is to allow all users in the state of Uttar P
 
 Before deep-diving into the specifics of the application, let us first understand about competencies & spot assessments in brief:
 
-### What are Spot assessments?
+### What are competencies?
 
 Competencies or Learning outcomes are measurable statements that articulate what students should know, be able to do, or value as a result of taking a course or completing a program
 Example:- One learning outcome for Grade-3 Mathematics is:-  _solves simple daily life problems using subtraction of three digit numbers
 with and without regrouping, sums not exceeding 999_
+
+
+### What are Spot assessments?
+
+**Spot Assessment** is a form of quick dipstick analysis that helps understand the learning levels of any beneficiary. The idea is to select a few people in a group and conduct some tests with them. The data from these test exams is used to determine the average intelligence of that group in a particular area. This concept is referred to as spot assessment. Through the nipun lakshya app, we are adapting these spot assessments for educational institutions.
 
 In a school, a spot assessment without tech would look like this:-
 
