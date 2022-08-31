@@ -96,16 +96,6 @@ Teaching faculties can view the results of students across all grades and use th
 
 The teachers do not need to login via OTP like mentors. Upon entering the NL app, they can select the geographical pinpoints of their school such as district, block type etc. and then move forward with the usual steps.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/77961530/187534448-1f13434d-cca2-4ceb-93f3-4ab21e615f47.png" height="700"/>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://user-images.githubusercontent.com/77961530/187534495-35d35487-d8f4-4441-b6c4-69a7836822cd.png" height="700"/>
-</p>
-
-<p align="center">
-Fig. Flow of the Teacher in the NL application
-</p>
-
 ### 3. Parents/Guardians
 
 Parents/Guardians can also use the Nipun Lakshya application to view how their child’s performance is fairing across different subjects in school. The spot assessment is conducted for various two subjects Hindi, Math etc. in order to corectly measure progress in FLN.
