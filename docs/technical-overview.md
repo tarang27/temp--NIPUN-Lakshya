@@ -185,10 +185,6 @@ Target Load for Assessment Submission (Uploads)
 
    A single 8GB, 4 Core VM will be able to handle 120 Assessment Submission/second. A cluster of ~9 servers will be required to manage the entire load of the state.
 
-- Total Cost
-    
-    1,184.51 USD/Month
-
 Additional server scale up plans for the application can be found [here](https://docs.google.com/presentation/d/1WjgQQ_tkgPPrx9p0wdI607DH1wyopGst/edit#slide=id.p11).
 
 ------------
